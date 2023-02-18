@@ -1,0 +1,4 @@
+# sdTokushuMap
+いろいろマップ出力MME
+深度マップとか法線マップを出力します
+AfterEffectsやAviUtilなどとの連携にどうぞ
